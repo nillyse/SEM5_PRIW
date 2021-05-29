@@ -1,0 +1,16 @@
+#!/bin/bash
+
+gcc -g lab02.c -o main -pthread -O3 -lgomp -fopenmp
+
+threads=( 1 2 4 8 )
+image_sizes=(400 800 1600 4000 6000 8000)
+
+
+
+for image_count in "${image_sizes[@]}"
+do
+    for thread_count in "${threads[@]}"
+    do
+        ./main ${image_count} ${thread_count}
+    done
+done

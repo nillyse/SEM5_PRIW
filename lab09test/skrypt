@@ -1,0 +1,22 @@
+#!/bin/bash
+
+g++ -g lab09.cpp -o lab09 -O3 -lgomp -fopenmp
+
+image_sizes=(1000)
+threads=( 1 2 3 4)
+block_size=(1 10 50)
+types=("static" "guided" "dynamic")
+
+for i_size in "${image_sizes[@]}"
+do
+    for t_number in "${threads[@]}"
+    do
+        for b_size in "${block_size[@]}"
+        do
+            for type in "${types[@]}"
+    do
+        ./lab09 ${i_size} ${t_number} ${b_size} ${type}
+    done
+done
+done
+done

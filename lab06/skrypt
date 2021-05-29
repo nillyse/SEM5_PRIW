@@ -1,0 +1,23 @@
+#!/bin/bash
+
+gcc -g lab06.c -o lab06 -pthread -O3 -lgomp -fopenmp
+
+image_sizes=(400 1600 4000)
+threads=( 1 2 4 8 )
+block_size=(1 10 50 200)
+types=("static" "guided" "dynamic")
+
+
+for i_size in "${image_sizes[@]}"
+do
+    for t_number in "${threads[@]}"
+    do
+        for b_size in "${block_size[@]}"
+        do
+            for type in "${types[@]}"
+    do
+        ./lab06 ${i_size} ${t_number} ${b_size} ${type}
+    done
+done
+done
+done

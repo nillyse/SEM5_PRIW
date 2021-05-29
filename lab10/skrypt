@@ -1,0 +1,18 @@
+#!/bin/bash
+
+g++ -g lab10.c -o lab10 -O3 -lgomp -fopenmp
+
+threads=( 1 2 4 8)
+block_size=(1 10 50)
+types=("static" "guided" "dynamic")
+
+for t_number in "${threads[@]}"
+    do
+        for b_size in "${block_size[@]}"
+        do
+            for type in "${types[@]}"
+    do
+        ./lab10 ${t_number} ${b_size} ${type}
+    done
+done
+done

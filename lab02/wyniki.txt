@@ -1,0 +1,48 @@
+Wielkość obrazu: 400	 Ilosc watkow: 1 	Czas:0.016658
+
+Wielkość obrazu: 400	 Ilosc watkow: 2 	Czas:0.007650
+
+Wielkość obrazu: 400	 Ilosc watkow: 4 	Czas:0.010419
+
+Wielkość obrazu: 400	 Ilosc watkow: 8 	Czas:0.007645
+
+Wielkość obrazu: 800	 Ilosc watkow: 1 	Czas:0.071061
+
+Wielkość obrazu: 800	 Ilosc watkow: 2 	Czas:0.042266
+
+Wielkość obrazu: 800	 Ilosc watkow: 4 	Czas:0.032364
+
+Wielkość obrazu: 800	 Ilosc watkow: 8 	Czas:0.043095
+
+Wielkość obrazu: 1600	 Ilosc watkow: 1 	Czas:0.247578
+
+Wielkość obrazu: 1600	 Ilosc watkow: 2 	Czas:0.122250
+
+Wielkość obrazu: 1600	 Ilosc watkow: 4 	Czas:0.122911
+
+Wielkość obrazu: 1600	 Ilosc watkow: 8 	Czas:0.109873
+
+Wielkość obrazu: 4000	 Ilosc watkow: 1 	Czas:1.605603
+
+Wielkość obrazu: 4000	 Ilosc watkow: 2 	Czas:0.774279
+
+Wielkość obrazu: 4000	 Ilosc watkow: 4 	Czas:0.749746
+
+Wielkość obrazu: 4000	 Ilosc watkow: 8 	Czas:0.616921
+
+Wielkość obrazu: 6000	 Ilosc watkow: 1 	Czas:3.533416
+
+Wielkość obrazu: 6000	 Ilosc watkow: 2 	Czas:1.747268
+
+Wielkość obrazu: 6000	 Ilosc watkow: 4 	Czas:1.736349
+
+Wielkość obrazu: 6000	 Ilosc watkow: 8 	Czas:1.360744
+
+Wielkość obrazu: 8000	 Ilosc watkow: 1 	Czas:6.359277
+
+Wielkość obrazu: 8000	 Ilosc watkow: 2 	Czas:3.022663
+
+Wielkość obrazu: 8000	 Ilosc watkow: 4 	Czas:2.975743
+
+Wielkość obrazu: 8000	 Ilosc watkow: 8 	Czas:2.433466
+

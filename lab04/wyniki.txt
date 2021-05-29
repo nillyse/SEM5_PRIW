@@ -1,0 +1,30 @@
+Wielkość obrazu: 420	 Ilosc watkow: 1 	Czas:0.016991
+
+Wielkość obrazu: 840	 Ilosc watkow: 1 	Czas:0.113365
+
+Wielkość obrazu: 2520	 Ilosc watkow: 1 	Czas:2.577922
+
+Wielkość obrazu: 420	 Ilosc watkow: 4 	Czas:0.004536
+
+Wielkość obrazu: 840	 Ilosc watkow: 4 	Czas:0.039667
+
+Wielkość obrazu: 2520	 Ilosc watkow: 4 	Czas:0.681895
+
+Wielkość obrazu: 420	 Ilosc watkow: 16 	Czas:0.005287
+
+Wielkość obrazu: 840	 Ilosc watkow: 16 	Czas:0.038554
+
+Wielkość obrazu: 2520	 Ilosc watkow: 16 	Czas:0.667837
+
+Wielkość obrazu: 420	 Ilosc watkow: 25 	Czas:0.009367
+
+Wielkość obrazu: 840	 Ilosc watkow: 25 	Czas:0.060376
+
+Wielkość obrazu: 2520	 Ilosc watkow: 25 	Czas:0.647562
+
+Wielkość obrazu: 420	 Ilosc watkow: 49 	Czas:0.013152
+
+Wielkość obrazu: 840	 Ilosc watkow: 49 	Czas:0.035879
+
+Wielkość obrazu: 2520	 Ilosc watkow: 49 	Czas:0.711744
+

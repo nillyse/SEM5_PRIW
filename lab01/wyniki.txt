@@ -1,0 +1,60 @@
+Dlugosc macierzy: 100
+Czas z 1 watkami: 0.001441
+
+Dlugosc macierzy: 100
+Czas z 2 watkami: 0.000814
+
+Dlugosc macierzy: 100
+Czas z 4 watkami: 0.000817
+
+Dlugosc macierzy: 100
+Czas z 8 watkami: 0.001233
+
+Dlugosc macierzy: 200
+Czas z 1 watkami: 0.010315
+
+Dlugosc macierzy: 200
+Czas z 2 watkami: 0.005322
+
+Dlugosc macierzy: 200
+Czas z 4 watkami: 0.005410
+
+Dlugosc macierzy: 200
+Czas z 8 watkami: 0.005256
+
+Dlugosc macierzy: 400
+Czas z 1 watkami: 0.089253
+
+Dlugosc macierzy: 400
+Czas z 2 watkami: 0.048161
+
+Dlugosc macierzy: 400
+Czas z 4 watkami: 0.034294
+
+Dlugosc macierzy: 400
+Czas z 8 watkami: 0.028287
+
+Dlugosc macierzy: 800
+Czas z 1 watkami: 0.953528
+
+Dlugosc macierzy: 800
+Czas z 2 watkami: 0.434702
+
+Dlugosc macierzy: 800
+Czas z 4 watkami: 0.295257
+
+Dlugosc macierzy: 800
+Czas z 8 watkami: 0.206020
+
+Dlugosc macierzy: 1600
+Czas z 1 watkami: 16.818700
+
+Dlugosc macierzy: 1600
+Czas z 2 watkami: 8.294966
+
+Dlugosc macierzy: 1600
+Czas z 4 watkami: 5.343763
+
+Dlugosc macierzy: 1600
+Czas z 8 watkami: 4.889977
+

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+
+n=( 1 2 3 4 5 6 7)
+image_sizes=( 420 1200  2520 )
+
+
+for i_size in "${image_sizes[@]}"
+do
+    for i_n in "${n[@]}"
+    do
+        test=$((${i_n} * ${i_n}))
+        pnmtopng ${test}_${i_size}.ppm > obrazki/${test}_${i_size}.png
+    done
+done
